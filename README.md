@@ -6,3 +6,17 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 <h3>Objective</h3>
 </p>We will try to build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?</p>
 <h3>Details about the dataset:</h3>
+<p>The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.</p>
+<ul>
+  <li>
+Pregnancies: Number of times pregnant
+Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+BloodPressure: Diastolic blood pressure (mm Hg)
+SkinThickness: Triceps skin fold thickness (mm)
+Insulin: 2-Hour serum insulin (mu U/ml)
+BMI: Body mass index (weight in kg/(height in m)^2)
+DiabetesPedigreeFunction: Diabetes pedigree function
+Age: Age (years)
+Outcome: Class variable (0 or 1)
+  </li>
+  </ul>
