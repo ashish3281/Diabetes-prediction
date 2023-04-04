@@ -29,3 +29,8 @@ Age: Age (years) </li>
 Outcome: Class variable (0 or 1)
   </li>
   </ul>
+<b>Number of Observation Units: 768</b>
+
+<b>Variable Number: 9</b>
+
+<b>Result; The model created as a result of XGBoost hyperparameter optimization became the model with the lowest Cross Validation Score value. (0.90)</b>
